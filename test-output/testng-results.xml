@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Reading data from properties file]]>
+    </line>
+    <line>
+      <![CDATA[clicking on next Button]]>
+    </line>
+    <line>
+      <![CDATA[Selecting age from dropdown]]>
+    </line>
+    <line>
+      <![CDATA[clicking on next Button]]>
+    </line>
+    <line>
+      <![CDATA[Entering pincode]]>
+    </line>
+    <line>
+      <![CDATA[Entering mobile number]]>
+    </line>
+    <line>
+      <![CDATA[clicking on continue Button]]>
+    </line>
+    <line>
+      <![CDATA[matching number with plan cards]]>
+    </line>
+    <line>
+      <![CDATA[matching number with plan cards]]>
+    </line>
+    <line>
+      <![CDATA[TC passed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2026-06-30T11:49:51 IST" name="Default suite" finished-at="2026-06-30T11:50:08 IST" duration-ms="16875">
+    <groups>
+    </groups>
+    <test started-at="2026-06-30T11:49:51 IST" name="Default test" finished-at="2026-06-30T11:50:08 IST" duration-ms="16875">
+      <class name="com.coverfox_Test.cfTest">
+        <test-method is-config="true" signature="objInitialze()[pri:0, instance:com.coverfox_Test.cfTest@6ad82709]" started-at="2026-06-30T11:49:51 IST" name="objInitialze" finished-at="2026-06-30T11:49:53 IST" duration-ms="2271" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Reading data from properties file]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- objInitialze -->
+        <test-method is-config="true" signature="precon()[pri:0, instance:com.coverfox_Test.cfTest@6ad82709]" started-at="2026-06-30T11:49:53 IST" name="precon" finished-at="2026-06-30T11:50:02 IST" duration-ms="8788" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on next Button]]>
+            </line>
+            <line>
+              <![CDATA[Selecting age from dropdown]]>
+            </line>
+            <line>
+              <![CDATA[clicking on next Button]]>
+            </line>
+            <line>
+              <![CDATA[Entering pincode]]>
+            </line>
+            <line>
+              <![CDATA[Entering mobile number]]>
+            </line>
+            <line>
+              <![CDATA[clicking on continue Button]]>
+            </line>
+            <line>
+              <![CDATA[matching number with plan cards]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- precon -->
+        <test-method signature="f()[pri:0, instance:com.coverfox_Test.cfTest@6ad82709]" started-at="2026-06-30T11:50:02 IST" name="f" finished-at="2026-06-30T11:50:02 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[matching number with plan cards]]>
+            </line>
+            <line>
+              <![CDATA[TC passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.coverfox_Test.cfTest@6ad82709]" started-at="2026-06-30T11:50:02 IST" name="closeApplication" finished-at="2026-06-30T11:50:08 IST" duration-ms="5708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.coverfox_Test.cfTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

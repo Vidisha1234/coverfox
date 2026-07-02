@@ -1,0 +1,93 @@
+2026-06-09 18:17:14,676 [main] INFO maven_coverfox - Hello
+2026-06-09 18:17:18,221 [main] INFO maven_coverfox - Clicked on Gender button
+2026-06-09 18:17:18,984 [main] INFO maven_coverfox - Clicked on next button
+2026-06-09 18:17:20,147 [main] INFO maven_coverfox - Clicked on next button
+2026-06-09 18:17:20,550 [main] INFO maven_coverfox - Entered Pincode button
+2026-06-09 18:17:20,673 [main] INFO maven_coverfox - Entered Mobile number button
+2026-06-09 18:17:20,774 [main] INFO maven_coverfox - Clicked on Continue button
+2026-06-09 18:17:22,691 [main] INFO maven_coverfox - Got Plan result
+2026-06-09 18:17:22,713 [main] INFO maven_coverfox - got getNumOfPlancard 
+2026-06-09 18:21:18,123 [main] INFO maven_coverfox - Hello
+2026-06-09 18:21:22,426 [main] INFO maven_coverfox - Clicked on Gender button
+2026-06-09 18:21:23,253 [main] INFO maven_coverfox - Clicked on next button
+2026-06-09 18:21:24,757 [main] INFO maven_coverfox - Clicked on next button
+2026-06-09 18:21:25,204 [main] INFO maven_coverfox - Entered Pincode button
+2026-06-09 18:21:25,366 [main] INFO maven_coverfox - Entered Mobile number button
+2026-06-09 18:21:25,487 [main] INFO maven_coverfox - Clicked on Continue button
+2026-06-09 18:21:27,357 [main] INFO maven_coverfox - Got Plan result
+2026-06-09 18:21:27,376 [main] INFO maven_coverfox - got getNumOfPlancard 
+2026-06-16 15:01:27,547 [main] INFO maven_coverfox - Hello
+2026-06-16 15:04:56,880 [main] INFO maven_coverfox - Hello
+2026-06-16 15:05:46,317 [main] INFO maven_coverfox - Hello
+2026-06-16 15:06:28,833 [main] INFO maven_coverfox - Hello
+2026-06-25 14:59:06,706 [main] INFO maven_coverfox - Hello
+2026-06-28 14:40:07,427 [main] INFO maven_coverfox - Hello
+2026-06-28 14:53:41,220 [main] INFO maven_coverfox - Hello
+2026-06-28 14:53:46,994 [main] INFO maven_coverfox - Clicked on Gender button
+2026-06-28 14:57:40,584 [main] INFO maven_coverfox - Hello
+2026-06-28 14:57:46,772 [main] INFO maven_coverfox - Clicked on Gender button
+2026-06-28 15:01:15,388 [main] INFO maven_coverfox - Hello
+2026-06-28 15:01:23,728 [main] INFO maven_coverfox - Clicked on Gender button
+2026-06-28 15:03:03,581 [main] INFO maven_coverfox - Hello
+2026-06-28 15:03:10,215 [main] INFO maven_coverfox - Clicked on Gender button
+2026-06-28 15:09:08,866 [main] INFO maven_coverfox - Hello
+2026-06-28 15:09:17,762 [main] INFO maven_coverfox - Clicked on Gender button
+2026-06-28 15:35:15,427 [main] INFO maven_coverfox - Hello
+2026-06-30 00:23:47,169 [main] INFO maven_coverfox - Hello
+2026-06-30 00:25:38,479 [main] INFO maven_coverfox - Hello
+2026-06-30 00:28:15,032 [main] INFO maven_coverfox - Hello
+2026-06-30 00:28:15,045 [main] INFO maven_coverfox - Hello
+2026-06-30 00:28:21,172 [main] INFO maven_coverfox - Clicked on Gender button
+2026-06-30 00:28:48,619 [main] INFO maven_coverfox - Hello
+2026-06-30 00:28:54,854 [main] INFO maven_coverfox - Clicked on Gender button
+2026-06-30 00:36:24,579 [main] INFO maven_coverfox - Hello
+2026-06-30 00:38:45,941 [main] INFO maven_coverfox - Hello
+2026-06-30 00:39:07,542 [main] INFO maven_coverfox - Hello
+2026-06-30 00:39:54,251 [main] INFO maven_coverfox - Hello
+2026-06-30 00:40:00,478 [main] INFO maven_coverfox - Clicked on Gender button
+2026-06-30 00:40:01,222 [main] INFO maven_coverfox - Clicked on next button
+2026-06-30 00:40:02,510 [main] INFO maven_coverfox - Entered Age
+2026-06-30 00:40:02,601 [main] INFO maven_coverfox - Clicked on next button
+2026-06-30 00:40:03,062 [main] INFO maven_coverfox - Entered Pincode button
+2026-06-30 00:40:03,204 [main] INFO maven_coverfox - Entered Mobile number button
+2026-06-30 00:40:03,343 [main] INFO maven_coverfox - Clicked on Continue button
+2026-06-30 00:40:05,365 [main] INFO maven_coverfox - Got Plan result
+2026-06-30 00:40:05,390 [main] INFO maven_coverfox - got getNumOfPlancard 
+2026-06-30 11:36:34,971 [main] INFO maven_coverfox - Hello
+2026-06-30 11:36:42,902 [main] INFO maven_coverfox - Clicked on Gender button
+2026-06-30 11:36:43,694 [main] INFO maven_coverfox - Clicked on next button
+2026-06-30 11:36:44,769 [main] INFO maven_coverfox - Entered Age
+2026-06-30 11:36:44,842 [main] INFO maven_coverfox - Clicked on next button
+2026-06-30 11:36:45,232 [main] INFO maven_coverfox - Entered Pincode button
+2026-06-30 11:36:45,346 [main] INFO maven_coverfox - Entered Mobile number button
+2026-06-30 11:36:45,463 [main] INFO maven_coverfox - Clicked on Continue button
+2026-06-30 11:36:46,947 [main] INFO maven_coverfox - Got Plan result
+2026-06-30 11:36:46,969 [main] INFO maven_coverfox - got getNumOfPlancard 
+2026-06-30 11:42:48,794 [main] INFO maven_coverfox - Hello
+2026-06-30 11:42:52,842 [main] INFO maven_coverfox - selecting Health Plan option
+2026-06-30 11:42:53,460 [main] INFO maven_coverfox - selecting gender
+2026-06-30 11:42:54,818 [main] INFO maven_coverfox - Entering mobile number
+2026-06-30 11:42:55,258 [main] INFO maven_coverfox - clicking View Quote Button 
+2026-06-30 11:42:55,887 [main] INFO maven_coverfox - Clicked on Gender button
+2026-06-30 11:42:56,811 [main] INFO maven_coverfox - Clicked on next button
+2026-06-30 11:42:58,082 [main] INFO maven_coverfox - Entered Age
+2026-06-30 11:42:58,168 [main] INFO maven_coverfox - Clicked on next button
+2026-06-30 11:42:58,651 [main] INFO maven_coverfox - Entered Pincode button
+2026-06-30 11:42:58,811 [main] INFO maven_coverfox - Entered Mobile number button
+2026-06-30 11:42:58,955 [main] INFO maven_coverfox - Clicked on Continue button
+2026-06-30 11:43:00,753 [main] INFO maven_coverfox - Got Plan result
+2026-06-30 11:43:00,770 [main] INFO maven_coverfox - got getNumOfPlancard 
+2026-06-30 11:49:51,317 [main] INFO maven_coverfox - Hello
+2026-06-30 11:49:53,464 [main] INFO maven_coverfox - selecting Health Plan option
+2026-06-30 11:49:55,060 [main] INFO maven_coverfox - selecting gender
+2026-06-30 11:49:56,083 [main] INFO maven_coverfox - Entering mobile number
+2026-06-30 11:49:56,815 [main] INFO maven_coverfox - clicking View Quote Button 
+2026-06-30 11:49:57,536 [main] INFO maven_coverfox - Clicked on Gender button
+2026-06-30 11:49:57,537 [main] INFO maven_coverfox - Clicking on next button
+2026-06-30 11:49:58,538 [main] INFO maven_coverfox - Entering Age
+2026-06-30 11:49:59,759 [main] INFO maven_coverfox - Clicking on next button
+2026-06-30 11:49:59,855 [main] INFO maven_coverfox - Entering Pincode button
+2026-06-30 11:50:00,324 [main] INFO maven_coverfox - Entering Mobile number button
+2026-06-30 11:50:00,472 [main] INFO maven_coverfox - Clicking on Continue button
+2026-06-30 11:50:00,621 [main] INFO maven_coverfox - Getting Plan result
+2026-06-30 11:50:02,232 [main] INFO maven_coverfox - getting getNumOfPlancard 
