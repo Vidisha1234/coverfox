@@ -91,3 +91,17 @@
 2026-06-30 11:50:00,472 - maven_coverfox -INFO - Clicking on Continue button
 2026-06-30 11:50:00,621 - maven_coverfox -INFO - Getting Plan result
 2026-06-30 11:50:02,232 - maven_coverfox -INFO - getting getNumOfPlancard 
+2026-07-03 11:05:23,499 - maven_coverfox -INFO - Hello
+2026-07-03 11:05:30,873 - maven_coverfox -INFO - selecting Health Plan option
+2026-07-03 11:05:31,709 - maven_coverfox -INFO - selecting gender
+2026-07-03 11:05:34,020 - maven_coverfox -INFO - Entering mobile number
+2026-07-03 11:05:34,742 - maven_coverfox -INFO - clicking View Quote Button 
+2026-07-03 11:05:35,719 - maven_coverfox -INFO - Clicked on Gender button
+2026-07-03 11:05:35,720 - maven_coverfox -INFO - Clicking on next button
+2026-07-03 11:05:36,834 - maven_coverfox -INFO - Entering Age
+2026-07-03 11:05:38,549 - maven_coverfox -INFO - Clicking on next button
+2026-07-03 11:05:38,707 - maven_coverfox -INFO - Entering Pincode button
+2026-07-03 11:05:39,229 - maven_coverfox -INFO - Entering Mobile number button
+2026-07-03 11:05:39,447 - maven_coverfox -INFO - Clicking on Continue button
+2026-07-03 11:05:39,644 - maven_coverfox -INFO - Getting Plan result
+2026-07-03 11:05:41,724 - maven_coverfox -INFO - getting getNumOfPlancard 
