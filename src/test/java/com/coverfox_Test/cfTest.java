@@ -41,7 +41,9 @@ public class cfTest extends BaseDummy {
 	public void objInitialze() throws IOException {
 		 logger= Logger.getLogger("maven_coverfox");
 		  PropertyConfigurator.configure("log4j.properties");
-		  logger.info("Hello");
+		  logger.info("hello");
+		  logger.info("this is my first change");
+		  logger.info("this is my second change");
 
 		launchBrowser();
 //		 gs = new GenderSelectingPage(driver);
