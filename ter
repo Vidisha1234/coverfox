@@ -1,0 +1,41 @@
+[33mcommit 22e9db4d09dea708cc94a4b190c6d3a5f966e756[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnewbranch[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: b0d3f52 45fddfd
+Author: Vidisha1234 <vidishawasnik037@gmail.com>
+Date:   Wed Jul 8 23:58:59 2026 +0530
+
+    Merge pull request #2 from Vidisha1234/newbranch
+    
+    making changes
+
+[33mcommit 45fddfd91127bae95fb359c945b476a5f20af270[m[33m ([m[1;31morigin/newbranch[m[33m)[m
+Author: “Vidisha1234” <“vidishawasnik037@gmail.com”>
+Date:   Wed Jul 8 23:57:09 2026 +0530
+
+    making changes
+
+[33mcommit b0d3f52e96159d7e8042e0ba67a96614cde8e4e1[m[33m ([m[1;32mvidishanewbranch[m[33m)[m
+Merge: 4d4a7bf 5292a17
+Author: Vidisha1234 <vidishawasnik037@gmail.com>
+Date:   Tue Jul 7 15:43:21 2026 +0530
+
+    Merge pull request #1 from Vidisha1234/vidishanewbranch
+    
+    approved
+
+[33mcommit 5292a1748da89bb16fba54274f3a6cdbd5f38f80[m[33m ([m[1;31morigin/vidishanewbranch[m[33m)[m
+Author: “Vidisha1234” <“vidishawasnik037@gmail.com”>
+Date:   Tue Jul 7 14:01:23 2026 +0530
+
+    first change
+
+[33mcommit 4d4a7bfa2c5abda7ad97607603e45d648c011a3f[m[33m ([m[1;32mmaster[m[33m)[m
+Author: “Vidisha1234” <“vidishawasnik037@gmail.com”>
+Date:   Mon Jul 6 17:15:31 2026 +0530
+
+    in process
+
+[33mcommit faca39b7a411b28f2efccfef5b93782168a86d19[m
+Author: “Vidisha1234” <“vidishawasnik037@gmail.com”>
+Date:   Thu Jul 2 16:13:41 2026 +0530
+
+    my first push
